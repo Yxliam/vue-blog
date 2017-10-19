@@ -1,0 +1,9 @@
+.fl{
+    float:left
+  }
+  .fr{
+    float:right;
+  }
+  /*清除浮动*/
+  .clearfix:after{content:"";display: block;height: 0;overflow: hidden;clear: both;}
+  .clearfix{*zoom:1;}  /* 清除浮动*/
