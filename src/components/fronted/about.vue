@@ -3,7 +3,7 @@
         <div v-wechat-title="$route.meta.title"></div>
         <h1>一个菜鸟web开发者</h1>
         <h2>
-            技术栈:vue2.0+vue-router+vuex+axios+element-ui    
+            技术栈:vue2.0+vue-router+vuex+axios+element-ui+php    
         </h2>  
         <h3>
             个人博客传送门:<a href="http://yxlblog.com">个人博客</a>
