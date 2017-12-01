@@ -1,6 +1,7 @@
 # vblog
 技术栈:vue2.0+vue-router+vuex+axios+element-ui+php
 ## 个人博客](http://yxlblog.com)
+## [该项目地址](http://vue.yxlblog.com)
 > A Vue.js project
 
 ## Build Setup
